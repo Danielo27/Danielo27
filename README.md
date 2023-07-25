@@ -18,8 +18,9 @@
 
 ## 👾 My Statistics
 
-<img src="https://github-readme-stats.vercel.app/api?username=Danielo27&show_icons=true&theme=dracula" width="90%" alt="statics github">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo27&layout=compact" align="right" width="90%"  alt="Languajes">
+<img src="https://github-readme-stats.vercel.app/api?username=Danielo27&show_icons=true&theme=dracula" width="50%" alt="statics github">
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo27&layout=compact" align="right" width="50%"  alt="Languajes">
 
 <br>
 <hr>
