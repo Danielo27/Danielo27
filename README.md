@@ -20,6 +20,8 @@
 
 <img src="https://github-readme-stats.vercel.app/api?username=Danielo27&show_icons=true&theme=dracula" width="50%" alt="statics github">
 
+<br>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo27&layout=compact" align="right" width="50%"  alt="Languajes">
 
 <br>
