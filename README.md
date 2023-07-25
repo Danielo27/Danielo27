@@ -19,15 +19,14 @@
 ## 👾 My Statistics
 
 <center><img src="https://github-readme-stats.vercel.app/api?username=Danielo27&show_icons=true&theme=dracula" width="40%" alt="statics github"><center>
-  
-<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo27&layout=compact" align="right" width="40%"  alt="Languajes"><center>
 
 <br>
 <hr>
 
 ## 📚 Languajes
 <br>
-
+<center><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Danielo27&layout=compact" align="right" width="40%"  alt="Languajes"><center>
+  
 ![html5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) 
 ![Css](https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white) 
 ![js](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E) 
